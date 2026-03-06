@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Optimizer (Japan)",
+  "description": "日本の転職者向けAI履歴書・職務経歴書最適化アプリ。求人票と照らし合わせてATS対応の改善版を出力します。",
+  "requestFramePermissions": []
+}
